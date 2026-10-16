@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI — Advanced Real-Time Virtual Assistant",
+  "description": "An advanced real-time intelligent virtual assistant with voice interaction, live web search, weather, news, currency conversion, calculations, streaming AI chat, and persistent conversation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
